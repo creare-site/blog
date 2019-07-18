@@ -1,6 +1,6 @@
 ---
-title: A post with images
-slug: a-post-with-images
+title: Verificare Website
+slug: website-checklist
 cover: ./cover.jpg
 generate-card: false
 date: 2018-09-29

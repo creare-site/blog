@@ -18,7 +18,7 @@
   "author": "WebsiteMarket <hello@websitemarket.ro>",
   "main": "n/a",
   "scripts": {
-    "deploy": "gatsby develop && node deploy",
+    "deploy": "gatsby build && node deploy",
     "start": "gatsby develop",
     "build": "gatsby build",
     "develop": "gatsby develop",

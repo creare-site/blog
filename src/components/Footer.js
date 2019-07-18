@@ -115,13 +115,10 @@ const Footer = () => {
       <nav>
         <div className="footer-col">
           <h5 className="footer-title">
-            {authorName} © {new Date().getFullYear()}
+            <a href="https://websitemarket.ro">{authorName}</a> © {new Date().getFullYear()}
           </h5>
           <p className="footer-item-text">
-            Blog de Tehnologie - powered by {' '}
-            <a className="footer-link" href="https://www.gatsbyjs.org">
-              Gatsby
-            </a>.
+            Blog de Tehnologie.
           </p>
         </div>
         {footerLinks.map((column, i) => {

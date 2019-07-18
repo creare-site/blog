@@ -1,14 +1,14 @@
 module.exports = {
-  siteTitle: 'WebsiteMarket',
-  siteDescription: 'Blog de Tehnologie',
+  siteTitle: 'Blog',
+  siteDescription: 'Oferit de WebsiteMarket',
   authorName: 'WebsiteMarket',
   twitterUsername: 'websitemarketro',
   authorAvatar: 'avatar.jpeg', // file in content/images
   multilangPosts: false, // enable/disable flags in post lists
   authorDescription: `
-  Automation geek 😎 <br>
-  Proiecte <a href="https://websitemarket.ro">WebsiteMarket</a>, <a href="https://appseed.us">AppSeed</a>. 
-  Ma gasiti si pe <a href="https://dev.to/sm0ke">Dev.to</a> (aka <strong>Sm0ke</strong>)
+  Automation geek 😎.<br>
+  Proiecte: <a href="https://websitemarket.ro">WebsiteMarket</a>, <a href="https://appseed.us">AppSeed</a>. 
+  Ma gasiti si pe <a href="https://dev.to/sm0ke">Dev.to</a> si <a href="https://twitter.com/Sm0keDev">Twitter</a>
   `,
   siteUrl: 'https://blog.websitemarket.ro/',
   disqusSiteUrl: '',
@@ -22,8 +22,8 @@ module.exports = {
   icon: 'content/images/logo.png',
   postsPerPage: 5,
   disqusShortname: '',
-  headerTitle: 'Blog',
-  headerLinksIcon: '', //  (leave empty to disable: '')
+  headerTitle: 'WebsiteMarket',
+  headerLinksIcon: 'logo.png', //  (leave empty to disable: '')
   headerLinks: [
     {
       label: 'Despre Proiect',
@@ -40,10 +40,6 @@ module.exports = {
       sectionName: 'Link-uri',
       links: [
         {
-          label: 'Blog',
-          url: '/',
-        },
-        {
           label: 'WebsiteMarket',
           url: 'https://websitemarket.ro',
         },
@@ -52,10 +48,6 @@ module.exports = {
     {
       sectionName: 'Social',
       links: [
-        {
-          label: 'Github',
-          url: 'https://github.com/creare-site',
-        },
         {
           label: 'Facebook',
           url: 'https://www.facebook.com/Websitemarketro/',
