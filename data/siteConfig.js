@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Blog',
-  siteDescription: 'Oferit de WebsiteMarket',
+  siteDescription: 'WebsiteMarket',
   authorName: 'WebsiteMarket',
   twitterUsername: 'websitemarketro',
   authorAvatar: 'avatar.jpeg', // file in content/images
