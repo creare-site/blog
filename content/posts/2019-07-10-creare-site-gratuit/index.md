@@ -3,7 +3,7 @@ title: "Creare Site Gratuit"
 slug: creare-site-gratuit
 date: 2019-07-10
 language: ro
-cover: ./cover-balloons.jpg
+cover: ./cover.jpg
 imageTw: ./gatsby-starter-morning-dew-v1-1-tw.png
 imageFb: ./gatsby-starter-morning-dew-v1-1-fb.png
 tags:
